@@ -1,0 +1,96 @@
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+.jumbotron{
+    background-size: cover;
+    background-color: rgb(20, 11, 11);
+    height: 100%;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+.nav-item{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: white;
+}
+.herobanner{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.herobanner h3{
+    color: #ef3f49;
+    font-family: 'Times New Roman', Times, serif;
+}
+.herobanner h4,h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.products{
+    padding: 50px;
+}
+.products h1{
+    text-align: center;
+    color: black;
+    padding: 10px;
+}
+.card-img-top {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.pageFooter{
+    background-color: rgb(37, 29, 29);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700px;
+    padding: 40px;
+}
+#para{
+    padding-top: 10px;
+}
+.sec h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700px;
+}
+#comp li a{
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 500px;
+}
+.form-group{
+    text-align: center;
+}
+.form-group #but{
+    padding: 10px;
+}
+.copy{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+.allProducts #one{
+
+    padding: 20px;
+}
+.allProducts #two{
+
+    padding: 20px;
+}
+.allProducts #three{
+
+    padding: 20px;
+}
+#digi1{
+    padding: 40px;
+}
+
+#digi3{
+    padding: 30px;
+}

@@ -1,0 +1,70 @@
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+.nav-item{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: white;
+}
+.herobanner{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.herobanner h3{
+    color: #ef3f49;
+    font-family: 'Times New Roman', Times, serif;
+}
+.herobanner h4,h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.contact h1{
+    text-align: center;
+    color: black;
+    padding: 40px;
+}
+.contact p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700px;
+}
+.contactForm{
+    margin: 0 auto;
+    width: 600px;
+}
+.pageFooter{
+    background-color: rgb(37, 29, 29);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700px;
+    padding: 40px;
+}
+#para{
+    padding-top: 10px;
+}
+.sec h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700px;
+}
+#comp li a{
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 500px;
+}
+.form-group{
+    text-align: center;
+}
+.form-group #but{
+    padding: 10px;
+}
+.copy{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
